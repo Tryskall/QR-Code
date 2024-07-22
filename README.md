@@ -14,7 +14,7 @@ Screenshot
 
 Links to Hosted Site and Social Media
 
-Solution URL(https://github.com/Tryskall/FrontEndMentor/tree/main/qr-code-component-main) This has not been hosted or set up as a web page
+Solution URL(https://tryskall.github.io/QR-Code/)
 
 Process
 
